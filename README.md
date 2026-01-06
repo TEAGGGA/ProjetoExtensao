@@ -8,9 +8,9 @@ HEAD
 
 ## 📖 Sobre o Projeto
 
-**Magic Front Platform** é uma plataforma web educacional interativa, desenvolvida como uma aplicação full-stack. [cite_start]O objetivo principal é ensinar programação de forma moderna e acessível para adolescentes do ensino médio, colocando em prática a visão do projeto de extensão "Apoio à Programação para Adolescentes do Ensino Médio"[cite: 6].
+**Magic Front Platform** é uma plataforma web educacional interativa, desenvolvida como uma aplicação full-stack.O objetivo principal é ensinar programação de forma moderna e acessível para adolescentes do ensino médio, colocando em prática a visão do projeto de extensão "Apoio à Programação para Adolescentes do Ensino Médio"].
 
-[cite_start]O conteúdo didático é uma adaptação digital do e-book **"Magic Front - O guia moderno do frontend"**[cite: 92]. [cite_start]A plataforma transforma os módulos do livro sobre HTML [cite: 141, 157][cite_start], CSS [cite: 1026][cite_start], Javascript [cite: 2163][cite_start], React [cite: 2288][cite_start], Carreira [cite: 2357] [cite_start]e Git [cite: 2429] em uma experiência de aprendizado online e estruturada.
+O conteúdo didático é uma adaptação digital do e-book **"Magic Front - O guia moderno do frontend"**. A plataforma transforma os módulos do livro sobre HTML , CSS , Javascript , React , Carreira Git  em uma experiência de aprendizado online e estruturada.
 
 ## ✨ Funcionalidades Principais
 
